@@ -1,13 +1,13 @@
 
 # Iniciação Científica
 
-Bem-vindo ao repositório **Iniciação Científica**! Aqui você encontrará os códigos desenvolvidos para minaha IniciIniciação Científica "Análise e Obtenção dos Parâmetros do Circuito Equivalente do Motor de Indução Trifásico Através da Teoria de Potência Conservativa". Esse projeto consiste na analize de MITs atraves da teoria da CPT para facilitar o cláculo dos parâmetros das máquinas. 
+Bem-vindo ao repositório **Iniciação Científica**! Aqui você encontrará os códigos desenvolvidos para minha Iniciação Científica "Análise e Obtenção dos Parâmetros do Circuito Equivalente do Motor de Indução Trifásico Através da Teoria de Potência Conservativa". Esse projeto consiste na analize de MITs atraves da teoria da CPT para facilitar o cláculo dos parâmetros das máquinas. 
 
 ## 📚 Conteúdo
 
 - **Testes da CPT**: Códigos para familiarização com os cálculos da CPT.
-- **Simulações com Circuito Equivalente**: Simulações com circuito equivalente para teste à vazio, teste a rotor bloqueado e teste de escorregamento.
-- **Simulaões com Modelo MIT**: Simulações com modelo pronto de motor de indução trifasico para teste à vazio e teste a rotor bloqueado. 
+- **Simulações com Circuito Equivalente**: Simulações com circuito equivalente para teste a vazio, teste a rotor bloqueado e teste de escorregamento.
+- **Simulaões com Modelo MIT**: Simulações com modelo pronto de motor de indução trifasico para teste a vazio e teste a rotor bloqueado. 
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -16,10 +16,10 @@ Bem-vindo ao repositório **Iniciação Científica**! Aqui você encontrará os
 ## 📂 Estrutura do Projeto
 
 ```bash
-├── arena_1/                  # Conteúdos e arquivos relacionados à Arena 1
+├── Testes da CPT/                          # Familiarização da CTP
 │
-├── arena_2/                  # Conteúdos e arquivos relacionados à Arena 2
+├── Simulações com Circuito Equivalente/    # Teste a vazio, rotor bloqueado e de escorregamento com circuito equivalente
 │
-├── arena_3/                  # Conteúdos e arquivos relacionados à Arena 3
+├── Simulaões com Modelo MIT/               # Teste a vazio, rotor bloqueado com modelo de MIT
 │
-└── README.md                 # Descrição do repositório e instruções
+└── README.md                               # Descrição do repositório e instruções
